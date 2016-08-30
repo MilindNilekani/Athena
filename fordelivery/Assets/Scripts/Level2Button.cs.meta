@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5d83315c80e0a664fb4a599c1a809f60
+timeCreated: 1461098020
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - locked: {instanceID: 0}
+  - unlocked: {instanceID: 0}
+  - unlocked_pressed: {instanceID: 0}
+  - descending_unlocked: {fileID: 21300000, guid: 03d2bb9bf6f70144cab986bbe71dc65b,
+      type: 3}
+  - descending_locked: {fileID: 21300000, guid: 1dd6175752403b24cbc3b78d42b14ef0,
+      type: 3}
+  - ascending_unlocked: {fileID: 21300000, guid: 1dd6175752403b24cbc3b78d42b14ef0,
+      type: 3}
+  - ascending_locked: {fileID: 21300000, guid: b6dd86d86f4a843489c79d95258e6355, type: 3}
+  - popup_options: {instanceID: 0}
+  - star: {instanceID: 0}
+  - nostar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

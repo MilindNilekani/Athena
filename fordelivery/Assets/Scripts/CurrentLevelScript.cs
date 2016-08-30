@@ -1,0 +1,16 @@
+﻿using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
+
+public class CurrentLevelScript : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+        GetComponent<Text>().text =""+LevelLoader.instance.current_level;
+	}
+}
